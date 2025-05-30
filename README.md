@@ -1,3 +1,4 @@
+![logo](https://github.com/janhavisangeet/janhavisangeet/blob/main/Janhavi%20Sangeet.png) 
 <h1 align="center">Hi 👋, I'm Janhavi Sabgeet</h1>
 <h3 align="center">MCA student || Learning full-stack dev || Always building 🚀</h3>
 
